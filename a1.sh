@@ -6,3 +6,4 @@ echo "what is your goal"
 read goal
 echo "my goal to become $goal"
 echo "welcome to devops cource by yeshaswi"
+echo "how is your day"
